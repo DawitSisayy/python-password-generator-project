@@ -1,1 +1,1 @@
-# python_password-_generator_project
+# python-password-generator-project
